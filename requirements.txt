@@ -1,0 +1,119 @@
+absl-py @ file:///home/conda/feedstock_root/build_artifacts/absl-py_1606234718434/work
+appdirs==1.4.4
+appnope==0.1.2
+argon2-cffi==21.3.0
+argon2-cffi-bindings==21.2.0
+astunparse==1.6.3
+attrs==21.4.0
+audioread @ file:///Users/runner/miniforge3/conda-bld/audioread_1615862486522/work
+backcall==0.2.0
+bleach==4.1.0
+brotlipy==0.7.0
+cached-property @ file:///tmp/build/80754af9/cached-property_1600785575025/work
+cachetools==4.2.2
+certifi==2021.10.8
+cffi @ file:///private/var/folders/nz/j6p8yfhx1mv_0grj5xl4650h0000gp/T/croot-jgj0vmyy/cffi_1642701117808/work
+charset-normalizer @ file:///tmp/build/80754af9/charset-normalizer_1630003229654/work
+cryptography @ file:///private/var/folders/nz/j6p8yfhx1mv_0grj5xl4650h0000gp/T/croot-cn99yw1m/cryptography_1639499039549/work
+cycler @ file:///tmp/build/80754af9/cycler_1637851556182/work
+debugpy==1.5.1
+decorator @ file:///opt/conda/conda-bld/decorator_1643638310831/work
+defusedxml==0.7.1
+entrypoints==0.4
+flatbuffers==1.12
+fonttools==4.25.0
+gast @ file:///home/conda/feedstock_root/build_artifacts/gast_1596839682936/work
+google-auth==1.34.0
+google-auth-oauthlib==0.4.5
+google-pasta @ file:///Users/ktietz/demo/mc3/conda-bld/google-pasta_1630577991354/work
+grpcio @ file:///Users/runner/miniforge3/conda-bld/grpcio_1610588577338/work
+h5py @ file:///Users/runner/miniforge3/conda-bld/h5py_1609497507927/work
+idna @ file:///tmp/build/80754af9/idna_1637925883363/work
+ipykernel==6.9.1
+ipython==7.26.0
+ipython-genutils==0.2.0
+jedi==0.18.0
+Jinja2==3.0.3
+joblib @ file:///tmp/build/80754af9/joblib_1635411271373/work
+jsonschema==4.4.0
+jupyter-client==7.1.2
+jupyter-core==4.9.2
+jupyterlab-pygments==0.1.2
+keras-nightly==2.5.0.dev2021032900
+Keras-Preprocessing @ file:///tmp/build/80754af9/keras-preprocessing_1612283640596/work
+keras-tuner==1.0.3
+kiwisolver @ file:///Users/builder/miniconda3/envs/prefect/conda-bld/kiwisolver_1638569888412/work
+kt-legacy==1.0.4
+librosa @ file:///home/conda/feedstock_root/build_artifacts/librosa_1644967835314/work
+llvmlite==0.36.0
+Markdown==3.3.4
+MarkupSafe==2.1.0
+matplotlib @ file:///Users/builder/miniconda3/envs/prefect/conda-bld/matplotlib-suite_1638374039169/work
+matplotlib-inline==0.1.2
+memory-profiler==0.60.0
+mistune==0.8.4
+munkres==1.1.4
+nbclient==0.5.11
+nbconvert==6.4.2
+nbformat==5.1.3
+nest-asyncio==1.5.4
+notebook==6.4.8
+numba @ file:///Users/runner/miniforge3/conda-bld/numba_1615723181761/work
+numpy==1.21.5
+oauthlib==3.1.1
+olefile @ file:///Users/ktietz/demo/mc3/conda-bld/olefile_1629805411829/work
+opt-einsum @ file:///tmp/build/80754af9/opt_einsum_1621500238896/work
+packaging @ file:///tmp/build/80754af9/packaging_1637314298585/work
+pandas==1.4.1
+pandocfilters==1.5.0
+parso==0.8.2
+pexpect==4.8.0
+pickleshare==0.7.5
+Pillow @ file:///Users/runner/miniforge3/conda-bld/pillow_1625678050927/work
+pooch @ file:///tmp/build/80754af9/pooch_1623324770023/work
+prometheus-client==0.13.1
+prompt-toolkit==3.0.19
+protobuf==3.19.1
+psutil==5.9.0
+ptyprocess==0.7.0
+pyasn1==0.4.8
+pyasn1-modules==0.2.8
+pycparser @ file:///tmp/build/80754af9/pycparser_1636541352034/work
+pydot @ file:///Users/runner/miniforge3/conda-bld/pydot_1617210752895/work
+Pygments==2.9.0
+pyOpenSSL @ file:///opt/conda/conda-bld/pyopenssl_1643788558760/work
+pyparsing==3.0.7
+pyrsistent==0.18.1
+PySocks @ file:///Users/ktietz/Code/oss/ci_pkgs/pysocks_1626781349491/work
+python-dateutil @ file:///tmp/build/80754af9/python-dateutil_1626374649649/work
+pytz==2021.1
+pyzmq==22.3.0
+requests @ file:///opt/conda/conda-bld/requests_1641824580448/work
+requests-oauthlib==1.3.0
+resampy==0.2.2
+rsa==4.7.2
+scikit-learn @ file:///private/var/folders/nz/j6p8yfhx1mv_0grj5xl4650h0000gp/T/croot-ic3nfbzi/scikit-learn_1642621481325/work
+scipy @ file:///Users/ktietz/ci_310/scipy_1644255974431/work
+seaborn==0.11.1
+Send2Trash==1.8.0
+six @ file:///home/linux1/recipes/ci/six_1610970791821/work
+SoundFile @ file:///home/conda/feedstock_root/build_artifacts/pysoundfile_1607011569782/work
+tensorboard==2.6.0
+tensorboard-data-server==0.6.1
+tensorboard-plugin-wit==1.8.0
+tensorflow-estimator==2.5.0
+tensorflow-macos==2.5.0
+tensorflow-metal==0.1.2
+termcolor==1.1.0
+terminado==0.13.1
+testpath==0.5.0
+threadpoolctl @ file:///Users/ktietz/demo/mc3/conda-bld/threadpoolctl_1629802263681/work
+tornado==6.1
+traitlets==5.1.1
+typing-extensions @ file:///home/conda/feedstock_root/build_artifacts/typing_extensions_1602702424206/work
+unicodedata2==13.0.0.post2
+urllib3 @ file:///opt/conda/conda-bld/urllib3_1643638302206/work
+wcwidth==0.2.5
+webencodings==0.5.1
+Werkzeug==2.0.1
+wrapt @ file:///Users/runner/miniforge3/conda-bld/wrapt_1624972047019/work
